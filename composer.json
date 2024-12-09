@@ -17,8 +17,8 @@
     },
     "require": {
         "php": ">=5.5.0",
-        "league/oauth2-client": "^1.0",
-        "illuminate/contracts": "^5.1"
+        "league/oauth2-client": "^2.7",
+        "illuminate/contracts": "^11.34"
     },
     "suggest": {
         "illuminate/support": "Laravel integration"
